@@ -1,0 +1,106 @@
+?a_init 24 0 DATA
+__Lrdata 2A FFFFFFD9 DATA
+__Hrbss 2A 0 DATA
+__Lrbss 20 0 DATA
+__Birdata 3 FFFFFFD9 DATA
+__Hirdata 2A FFFFFFD9 DATA
+__Lirdata 2A FFFFFFD9 DATA
+powerup 205 0 CODE
+__Htext 2A 0
+__Ltext 2A 0
+__Hcode 2A 0
+__Lcode 2A 0
+ldb_r0 18D 0 CODE
+ldc_r0 189 0 CODE
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 2A 0 XDATA
+ldb_r1 19A 0 CODE
+ldc_r1 196 0 CODE
+__Hbss 2A 0 XDATA
+__Hstrings 100 0 CODE
+ldb_r2 1A7 0 CODE
+ldc_r2 1A3 0 CODE
+__Lbss 2A 0 XDATA
+__Lstrings 100 0 CODE
+?a_msec 24 0 DATA
+ldb_r3 1B4 0 CODE
+ldc_r3 1B0 0 CODE
+ldb_r4 1C1 0 CODE
+ldc_r4 1BD 0 CODE
+ldb_r5 1CE 0 CODE
+ldc_r5 1CA 0 CODE
+__S0 208 0
+ldb_r6 1DB 0 CODE
+ldc_r6 1D7 0 CODE
+ldb_r7 1E8 0 CODE
+ldc_r7 1E4 0 CODE
+start1 1F1 0 CODE
+__Hnvram 2A 0 XDATA
+small_model 1 0
+__Lnvram 2A 0 XDATA
+_msec 20 0 CODE
+ldc_byte 17E 0 CODE
+__Hheap 2A 0 XDATA
+__Lheap 2A 0 XDATA
+_main 57 0 CODE
+_init 3 0 CODE
+?a_main 20 0 DATA
+_exit 202 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 2A 0 DATA
+__Hidata 2A 0 DATA
+__Lidata 2A 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD9 DATA
+__Hrdata 2A FFFFFFD9 DATA
+%segments
+vectors 0 207 CODE
+rbit 0 9 BITSEG
+%locals
+Z:\main_0.obj
+C:\Users\class\DOCUME~1\NATION~1\CIRCUI~1.0\MCUWOR~1\vika\project1\main.c
+3 3 0 CODE
+5 5 0 CODE
+6 8 0 CODE
+7 B 0 CODE
+8 E 0 CODE
+9 11 0 CODE
+10 14 0 CODE
+11 17 0 CODE
+12 1D 0 CODE
+15 20 0 CODE
+16 26 0 CODE
+18 28 0 CODE
+19 2B 0 CODE
+20 2E 0 CODE
+22 30 0 CODE
+23 37 0 CODE
+24 39 0 CODE
+16 3B 0 CODE
+26 54 0 CODE
+29 57 0 CODE
+31 5A 0 CODE
+32 61 0 CODE
+33 64 0 CODE
+35 67 0 CODE
+36 72 0 CODE
+37 79 0 CODE
+39 92 0 CODE
+40 B1 0 CODE
+41 E2 0 CODE
+42 114 0 CODE
+43 147 0 CODE
+44 157 0 CODE
+37 15E 0 CODE
+33 177 0 CODE
+47 17A 0 CODE
